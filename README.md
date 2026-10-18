@@ -1,9 +1,9 @@
 ### How to Run the Application
 
-### Option 1: Double-Click Executable (Recommended for Grading)
-1. Download or clone this repository.
+### Option 1: Double-Click Executable (Recommended)
+1. Download this repository and extract the zip.
 2. Locate the file named **`GameStop Employee Terminal - RUN THIS.exe`** in the root folder.
-3. Double-click the file to launch the application instantly with zero configuration or command lines required.
+3. Double click the file to launch the application instantly with zero configuration or command lines required.
 
 ### Option 2: Run from Source Code (Python)
 If you prefer running the raw source code:
