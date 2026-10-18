@@ -23,8 +23,9 @@ Scope: Features a local database of pre-set items across multiple categories. Tr
 
 
 
-My application used a modular object-oriented architecture to maintain clean code and connectivity needed for dynamic updating inventory
-classes.py: Houses the core business logic classes:
+My application used a modular object-oriented architecture to maintain clean code and connectivity needed for a dynamic updating inventory
+
+classes.py: Houses the core business logic classes.
 
 GameItem: Manages item attributes, stock tracking dictionaries, and condition-based pricing/trade-in multipliers.
 
